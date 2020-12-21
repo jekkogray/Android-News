@@ -1,0 +1,24 @@
+<resources>
+    <!-- Home Screen Activity -->
+    <string name="home_app_name">Android News</string>
+
+    <string name="home_titleTermSearch">Term Search</string>
+    <string name="home_titleNewsByLocation">News by Location</string>
+    <string name="home_titleTopHeadLines">Top Headlines</string>
+
+    <string name="home_hintTermSearch">Search</string>
+
+    <string name="home_textQuickSearch">QUICK SEARCH</string>
+    <string name="home_textAdvancedSearch">ADVANCED SEARCH</string>
+    <string name="home_textViewMap">View Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="maps_titleMapResultsScreen">Cannot load address</string>
+    <string name="advancedSearch_Category">Category</string>
+    <string name="sourcesNotification">Sources (select at least 1)</string>
+    <string name="selectedSourcesText">Sources (select at least 1)</string>
+    <string name="seeResultsText">SEE RESULTS</string>
+
+    <!-- Maps Screen Activity -->
+    <!-- Advanced Search Activity -->
+    <!-- Results Activity -->
+</resources>
