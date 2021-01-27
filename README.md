@@ -6,11 +6,11 @@
 Android News Android News is a simple app to aggregate news from multiple sources. It can be used to view top headlines for broad categories, perform specific term searches, view news from specific sources, and view local news in different areas of the world!</p>
 <p>Requires Android 6.0 +</p>
 
-The APK to run SpotThat on your own Android device is available <a href="https://github.com/jekkogray/SpotThat/blob/main/build/APK/Android-News-demo.apk" download> here.</a>
+The APK to run SpotThat on your own Android device is available <a href="https://github.com/jekkogray/Android-News/blob/main/build/APK/Android-News-demo.apk" download> here.</a>
 
 ## Android-News Screenshots
 
-#### [Home Activity](https://github.com/GWU-CSCI-4237-Fall-2020/project-2-byoi-jekko-s-solo-team/blob/master/SpotThat/app/src/main/java/com/example/spotthat/SignInActivity.kt)
+#### [Home Activity](https://github.com/jekkogray/Android-News/blob/main/AndroidNews/app/src/main/java/com/example/androidnews/HomeScreenActivity.kt)
 
 <img src="/readme-imgs/HomeActivity.png" alt="Home Activity" width=200/>
 <blockquote>
@@ -26,14 +26,14 @@ The APK to run SpotThat on your own Android device is available <a href="https:/
 </p>
 </blockquote>
 
-#### [Map Activity](https://github.com/GWU-CSCI-4237-Fall-2020/project-2-byoi-jekko-s-solo-team/blob/master/SpotThat/app/src/main/java/com/example/spotthat/MainActivity.kt)
+#### [Maps Activity](https://github.com/jekkogray/Android-News/blob/main/AndroidNews/app/src/main/java/com/example/androidnews/MapsActivity.kt)
 
 <img src="/readme-imgs/MapActivity.png" alt="Maps Activity" width=200/>
 <blockquote>
 <p><b>Maps Activity</b> view the map and allow users to view news based on the location. Tapping on the news opens a new browser with news.</p> 
 </blockquote>
 
-#### [Results Activity](https://github.com/GWU-CSCI-4237-Fall-2020/project-2-byoi-jekko-s-solo-team/blob/master/SpotThat/app/src/main/java/com/example/spotthat/SignUpActivity.kt)
+#### [Results Activity](https://github.com/jekkogray/Android-News/blob/main/AndroidNews/app/src/main/java/com/example/androidnews/ResultsActivity.kt)
 
 <img src="/readme-imgs/ResultsActivity.png" alt="Results Activity" width=200/>
 <blockquote>
@@ -42,7 +42,7 @@ The APK to run SpotThat on your own Android device is available <a href="https:/
 </p>
 </blockquote>
 
-#### [Advanced Search Activity](https://github.com/GWU-CSCI-4237-Fall-2020/project-2-byoi-jekko-s-solo-team/blob/master/SpotThat/app/src/main/java/com/example/spotthat/SignUpActivity.kt)
+#### [Advanced Search Activity](https://github.com/jekkogray/Android-News/blob/main/AndroidNews/app/src/main/java/com/example/androidnews/AdvancedSearchActivity.kt)
 
 <img src="/readme-imgs/AdvancedSearchActivity.png" alt="AdvancedSearch Activity" width=200/>
 <blockquote>
