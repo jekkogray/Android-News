@@ -26,16 +26,16 @@ The APK to run SpotThat on your own Android device is available <a href="https:/
 </p>
 </blockquote>
 
-#### [Maps Activity](https://github.com/GWU-CSCI-4237-Fall-2020/project-2-byoi-jekko-s-solo-team/blob/master/SpotThat/app/src/main/java/com/example/spotthat/MainActivity.kt)
+#### [Map Activity](https://github.com/GWU-CSCI-4237-Fall-2020/project-2-byoi-jekko-s-solo-team/blob/master/SpotThat/app/src/main/java/com/example/spotthat/MainActivity.kt)
 
-<img src="/readme-imgs/MapsActivity.png" alt="Maps Activity" width=200/>
+<img src="/readme-imgs/MapActivity.png" alt="Maps Activity" width=200/>
 <blockquote>
 <p><b>Maps Activity</b> view the map and allow users to view news based on the location. Tapping on the news opens a new browser with news.</p> 
 </blockquote>
 
 #### [Results Activity](https://github.com/GWU-CSCI-4237-Fall-2020/project-2-byoi-jekko-s-solo-team/blob/master/SpotThat/app/src/main/java/com/example/spotthat/SignUpActivity.kt)
 
-<img src="/readme-imgs/SignupActivity.png" alt="Results Activity" width=200/>
+<img src="/readme-imgs/ResultsActivity.png" alt="Results Activity" width=200/>
 <blockquote>
 <p>
 <b>Results Activity</b> the results activity queries and loads news from the NewsAPI asynchronously. 
