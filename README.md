@@ -47,6 +47,6 @@ The APK to run SpotThat on your own Android device is available <a href="https:/
 <img src="/readme-imgs/AdvancedSearchActivity.png" alt="AdvancedSearch Activity" width=200/>
 <blockquote>
 <p>
-<b>Advanced Search Activity</b> allows users to query based on a given. In addition, you can tap on multiple sources from the same category to aggregate the results of the news. 
+<b>Advanced Search Activity</b> allows users to query based on a given source and category. In addition, you can tap on multiple sources from the same category to aggregate the results of the news. 
 </p>
 </blockquote>
