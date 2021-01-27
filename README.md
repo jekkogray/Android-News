@@ -3,7 +3,7 @@
 ## About
 
 <p>
-Android News Android News is a simple app to aggregate news from multiple sources. It can be used to view top headlines for broad categories, perform specific term searches, view news from specific sources, and view local news in different areas of the world!</p>
+Android News is a simple app to aggregate news from multiple sources. It can be used to view top headlines for broad categories, perform specific term searches, view news from specific sources, and view local news in different areas of the world!</p>
 <p>Requires Android 6.0 +</p>
 
 The APK to run SpotThat on your own Android device is available <a href="https://github.com/jekkogray/Android-News/blob/main/build/APK/Android-News-demo.apk" download> here.</a>
